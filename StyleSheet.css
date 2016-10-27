@@ -1,0 +1,26 @@
+body {
+  font-family: 'Dancing Script', cursive;
+    background:#030303 ;
+ background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-9/14713514_174691846323062_6387545631026102181_n.jpg?oh=46e3c4a7b274203e64a6832067e3d9c1&oe=589FAD48);
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: 100%;
+}
+ .text {
+  margin-top: 15%;
+  color: white;
+}
+h1 {
+  font-size: 55px;
+}
+h3 {
+  padding-right: 15%;
+  font-size: 32px;
+}
+#button {
+  font-size: 28px;
+ 
+}
+.tweet {
+  margin-top: 4%;
+}
